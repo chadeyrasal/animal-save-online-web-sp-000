@@ -8,9 +8,10 @@ html {
   right: 0;
 }
 
-@@media only screen (max-width: 1196px) {
+@media only screen (max-width: 1196px) {
   #bear {
     position: absolute;
+    position:
     top: 100px;
     left: 800px;
   }
