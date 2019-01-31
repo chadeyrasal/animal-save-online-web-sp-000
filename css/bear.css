@@ -8,6 +8,6 @@ html {
   right: 0;
 }
 
-@@media only screen () {
-
+@@media only screen (max-width: 1196px) {
+  
 }
